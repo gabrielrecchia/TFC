@@ -298,7 +298,7 @@ class Template
 	 *
 	 * @return string A string containing the output of the render process.
 	 */
-	public static function yield()
+	public static function yield_content()
 	{
 		$output = '';
 

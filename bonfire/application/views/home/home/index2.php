@@ -215,110 +215,56 @@
 
 
                     /*Proxima partidas*/
-                .uiListado {
-	margin:0px;padding:0px;
-	width:100%;
-	box-shadow: 10px 10px 5px #888888;
-	border:1px solid #000000;
-	
-	-moz-border-radius-bottomleft:10px;
-	-webkit-border-bottom-left-radius:10px;
-	border-bottom-left-radius:10px;
-	
-	-moz-border-radius-bottomright:10px;
-	-webkit-border-bottom-right-radius:10px;
-	border-bottom-right-radius:10px;
-	
-	-moz-border-radius-topright:10px;
-	-webkit-border-top-right-radius:10px;
-	border-top-right-radius:10px;
-	
-	-moz-border-radius-topleft:10px;
-	-webkit-border-top-left-radius:10px;
-	border-top-left-radius:10px;
-}.uiListado table{
-    border-collapse: collapse;
-        border-spacing: 0;
-	width:100%;
-	height:100%;
-	margin:0px;padding:0px;
-}.uiListado tr:last-child td:last-child {
-	-moz-border-radius-bottomright:10px;
-	-webkit-border-bottom-right-radius:10px;
-	border-bottom-right-radius:10px;
-}
-.uiListado table tr:first-child td:first-child {
-	-moz-border-radius-topleft:10px;
-	-webkit-border-top-left-radius:10px;
-	border-top-left-radius:10px;
-}
-.uiListado table tr:first-child td:last-child {
-	-moz-border-radius-topright:10px;
-	-webkit-border-top-right-radius:10px;
-	border-top-right-radius:10px;
-}.uiListado tr:last-child td:first-child{
-	-moz-border-radius-bottomleft:10px;
-	-webkit-border-bottom-left-radius:10px;
-	border-bottom-left-radius:10px;
-}.uiListado tr:hover td{
-	
-}
-.uiListado tr:nth-child(odd){ background-color:#aad4ff; }
-.uiListado tr:nth-child(even)    { background-color:#ffffff; }.uiListado td{
-	vertical-align:middle;
-	
-	
-	border:1px solid #000000;
-	border-width:0px 1px 1px 0px;
-	text-align:left;
-	padding:7px;
-	font-size:10px;
-	font-family:Arial;
-	font-weight:normal;
-	color:#000000;
-}.uiListado tr:last-child td{
-	border-width:0px 1px 0px 0px;
-}.uiListado tr td:last-child{
-	border-width:0px 0px 1px 0px;
-}.uiListado tr:last-child td:last-child{
-	border-width:0px 0px 0px 0px;
-}
-.uiListado tr:first-child td{
-		background:-o-linear-gradient(bottom, #3582f4 5%, #0930f4 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3582f4), color-stop(1, #0930f4) );
-	background:-moz-linear-gradient( center top, #3582f4 5%, #0930f4 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3582f4", endColorstr="#0930f4");	background: -o-linear-gradient(top,#3582f4,0930f4);
+                    .uiListado {
+                        width: 100%;
+                    }
 
-	background-color:#3582f4;
-	border:0px solid #000000;
-	text-align:center;
-	border-width:0px 0px 1px 1px;
-	font-size:14px;
-	font-family:Helvetica;
-	font-weight:bold;
-	color:#ffffff;
-}
-.uiListado tr:first-child:hover td{
-	background:-o-linear-gradient(bottom, #3582f4 5%, #0930f4 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3582f4), color-stop(1, #0930f4) );
-	background:-moz-linear-gradient( center top, #3582f4 5%, #0930f4 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3582f4", endColorstr="#0930f4");	background: -o-linear-gradient(top,#3582f4,0930f4);
+                    .uiListado .cabecera, .uiListado .cabecera a {
+                        color: #000;
+                        height: 25px;
+                        border: none;
+                        font-weight: bold;
+                        text-decoration: none;
+                        background-color: #e5e5e5;
+                        font-family: Arial;
+                        text-transform: uppercase;
+                    }
 
-	background-color:#3582f4;
-}
-.uiListado tr:first-child td:first-child{
-	border-width:0px 0px 1px 0px;
-}
-.uiListado tr:first-child td:last-child{
-	border-width:0px 0px 1px 1px;
-}
-                    
+                    .uiListado .texto {
+                        vertical-align: middle;
+                        height: 25px;
+                    }
+
+                    .uiListado .texto a {
+                        text-decoration: none;
+                        color: black;
+                    }
+
+                    .uiListado td {
+                        padding: 0px 2px 0px 2px;
+                        border-bottom: solid 1px;
+                        border-top: solid 0px;
+                        border-left: solid 0px;
+                        border-right: solid 0px;
+                        border-color: #dedede;
+                        vertical-align: middle;
+                    }
+
+                    .uiListado .alternate {
+                        border-top: solid 1px #dedede;
+                        border-bottom: solid 1px #dedede;
+                        background-color: #f7f7f7;
+                    }
+
                 </style>
 
                 <div class="pr" style="min-height: 280px">
                     <div id="slider_1" class="fleft">
                         <ul>
-                            <li><img src="assets/photos/PORTADA2.jpg" /></li>
-                            <li><img src="assets/photos/torneof6.jpg" /></li>
-                            <li><img src="assets/photos/torneof8.jpg" /></li>
+                            <li><img src="assets/photos/foto0.jpg" /></li>
+                            <li><img src="assets/photos/eldioni.jpg" /></li>
+                            <li><img src="assets/photos/foto1.jpg" /></li>
+                            <li><img src="assets/photos/foto3.jpg" /></li>
                         </ul>
                     </div>
                     <!--<div class="descrip-text fright w258"><p id="anistate_1"></div>-->
@@ -342,9 +288,7 @@
                     <!-- #center column -->
                     <div id="center_column" class="fleft mr25 pt20">
                         <div class="uiListado">
-                            <div class="f20 lato lato900 border_light_bottom mb20 pb5">
-                            <img src="assets/photos/btonproxpart.jpg">
-                            </div>
+                            <div class="f20 lato lato900 border_light_bottom mb20 pb5">Proximas partidas</div>
                             <div>
                                 <table class="uiListado" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
                                     <tbody>
@@ -395,9 +339,7 @@
 
 
 
-                        <div class="f20 lato lato900 border_light_bottom mb20 pb5">
-                        <img src="assets/photos/btnultnoticia.jpg">
-                        </div>
+                        <div class="f20 lato lato900 border_light_bottom mb20 pb5">Ultimas noticias</div>
                         <?php foreach ($news as $noticia): ?>
                             <!-- <div class="news-item">
                                    <div class="w30 mr10 fleft"><img src="assets/uploads/pages_c7cda981b1191d6fc39480949028c130.png" width="26" /></div>

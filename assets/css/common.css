@@ -1,4 +1,4 @@
-/* 
+﻿/* 
     Document   : style
     Created on : 14-giu-2011, 16.36.13
     Author     : stc
@@ -33,10 +33,14 @@ body {
     line-height: 1.5em;
     color: #2a2828;
     /*background: url('/assets/imgs/commons/background.jpg') repeat-x #6cb7d4;*/
-    background: url('/assets/imgs/commons/background.jpg') repeat-x #20B626;
+    background-image: url('/assets/imgs/commons/background.jpg'), url('/assets/imgs/commons/background2.jpg'); 
+    background-repeat: repeat-x, repeat; 
+    background-position: left top, center center;
     font-family:Arial, Helvetica, sans-serif;
     font-size:12px;
     line-height:1.5em;
+      
+  
 }
 ol, ul {
     list-style: none;
@@ -147,7 +151,7 @@ a:hover {
 }
 
 #content_wrapper {
-    /* -60px è il negativo dell'altezza del footer (per fare sticky footer) */
+    /* -60px Ã¨ il negativo dell'altezza del footer (per fare sticky footer) */
     margin: -153px auto -140px;
     padding-top: 153px;
     min-height: 100%;
@@ -156,7 +160,7 @@ a:hover {
 }
 
 #content_wrapper_index {
-    /* -60px è il negativo dell'altezza del footer (per fare sticky footer) */
+    /* -60px Ã¨ il negativo dell'altezza del footer (per fare sticky footer) */
     /*margin: -153px auto -140px;
     padding-top: 153px;
     min-height: 100%;

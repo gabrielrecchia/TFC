@@ -54,7 +54,7 @@
                     icon: image,
                     title: 'Catedral II'
                 });
-                var image = '/assets/imgs/commons/icons/16/star_on.png';
+		var image = '/assets/imgs/commons/icons/16/star_on.png';
                 var myLatLng = new google.maps.LatLng(-34.757828, -58.279970);
                 var beachMarker = new google.maps.Marker({
                     position: myLatLng,
