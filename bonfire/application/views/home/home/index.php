@@ -411,35 +411,30 @@
                         <div class="f20 lato lato900 border_light_bottom mb20 pb5">
                             <img src="assets/photos/btnultnoticia.jpg">
                         </div>
-                        <?php foreach ($news as $noticia): ?>
-                            <!-- <div class="news-item">
-                                   <div class="w30 mr10 fleft"><img src="assets/uploads/pages_c7cda981b1191d6fc39480949028c130.png" width="26" /></div>
-                                   <div class="fleft wp94">
-                                       <div class="titolo"><a href="/noticia/<!?php echo $noticia['idnoticias'] ?>"><!?php echo $noticia['titulo'] ?></a></div>
-                                       <div class="descrizione"><p><!?php echo $noticia['fecha'] ?></p>
-                                       </div>
-                                       <div style="clear:both;"></div>
-                                   </div>
-                               </div>-->
-
-                            <div  class="uiPubPreview" style="padding-bottom:6px;margin-bottom:6px;border-bottom:solid 1px #ddd;">
-                                <div>
-                                    <a href="/noticia/<?php echo $noticia['idnoticias'] ?>"><img class="imagen" title="<?php echo $noticia['titulo'] ?>" alt="<?php echo $noticia['titulo'] ?>" src="/assets/noticias/portada/<?php echo $noticia['foto_portada'] ?>" style="height:120px;width:370px;border-width:0px;border:0px;"></a>
-                                    <br>
+                        <div style="background-color: rgb(237, 237, 238);">
+                            <?php foreach ($news as $noticia): ?>
+                                <div  class="uiPubPreview" style="padding-bottom:6px;margin-bottom:6px;border-bottom:solid 1px #ddd;">
+                                    <div>
+                                        <a href="/noticia/<?php echo $noticia['idnoticias'] ?>"><img class="imagen" title="<?php echo $noticia['titulo'] ?>" alt="<?php echo $noticia['titulo'] ?>" src="/assets/noticias/portada/<?php echo $noticia['foto_portada'] ?>" style="height:120px;width:370px;border-width:0px;border:0px;"></a>
+                                        <br>
+                                    </div>
+                                    <div class="antetitulo">
+                                        <span><?php e(getTorneo($torneos_all, $noticia['idtorneo'])) ?></span>                                                                                
+                                    </div> 
+                                    <a class="titular" href="/noticia/<?php echo $noticia['idnoticias'] ?>"><?php echo $noticia['titulo'] ?></a>                                            
+                                    <div class="entradilla">
+                                        <span><?php echo $noticia['subtitulo'] ?></span>                                                                            
+                                    </div>      
+                                    <div>
+                                        <span class="fecha"><?php echo $noticia['fecha'] ?></span>
+                                    </div> 
+                                    <div>
+                                        <?php echo $noticia['contenido'] ?>
+                                    </div>
+                                    <br>   
                                 </div>
-                                <div class="antetitulo">
-                                    <span><?php e(getTorneo($torneos_all, $noticia['idtorneo'])) ?></span>                                                                                
-                                </div> 
-                                <a class="titular" href="/noticia/<?php echo $noticia['idnoticias'] ?>"><?php echo $noticia['titulo'] ?></a>                                            
-                                <div class="entradilla">
-                                    <span><?php echo $noticia['subtitulo'] ?></span>                                                                            
-                                </div>      
-                                <div>
-                                    <span class="fecha"><?php echo $noticia['fecha'] ?></span>
-                                </div>           
-                                <br>   
-                            </div>
-                        <?php endforeach ?>
+                            <?php endforeach ?>
+                        </div>
                     </div>
                 </div>
 
