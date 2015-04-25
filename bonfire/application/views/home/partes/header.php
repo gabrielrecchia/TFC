@@ -152,8 +152,8 @@
                 <span class="menu-torneo-dx"></span>
             </div>
             <!--end menu torneo-->
-            <!--LOGIN-->
+<!--            LOGIN
             <div class="wrapper">
                 <div class="w450 fleft tr bgwhite" style="height: 68px;width: 100%;"></div>
             </div>
-            <!--end LOGIN-->
+            end LOGIN-->

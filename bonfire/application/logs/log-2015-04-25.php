@@ -1,3 +1,50 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
 
 ERROR - 2015-04-25 16:41:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 16:47:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 16:47:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 16:48:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 16:49:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 16:53:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 16:53:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:06:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:07:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:08:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:08:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:09:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:16:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: nombre C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 373
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: fecha C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 376
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: fecha C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 379
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: idsede C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 382
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: idsede C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 382
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: equipo1 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 385
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: equipo1 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 385
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: equipo2 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 391
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: equipo2 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 391
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: idtorneo C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 394
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: id C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 394
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: nombre C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 373
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: fecha C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 376
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: fecha C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 379
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: idsede C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 382
+ERROR - 2015-04-25 17:16:13 --> Severity: Notice  --> Undefined index: idsede C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 382
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo1 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 385
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo1 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 385
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo2 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 391
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo2 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 391
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: idtorneo C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 394
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: id C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 394
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: nombre C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 373
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: fecha C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 376
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: fecha C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 379
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: idsede C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 382
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: idsede C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 382
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo1 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 385
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo1 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 385
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo2 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 391
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: equipo2 C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 391
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: idtorneo C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 394
+ERROR - 2015-04-25 17:16:14 --> Severity: Notice  --> Undefined index: id C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\application\views\home\home\index.php 394
+ERROR - 2015-04-25 17:18:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-04-25 17:20:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\Users\Brunoli\Documents\NetBeansProjects\TFC\bonfire\codeigniter\database\drivers\mysql\mysql_driver.php 91

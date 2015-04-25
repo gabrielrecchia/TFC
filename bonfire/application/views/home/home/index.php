@@ -215,102 +215,102 @@
 
 
                     /*Proxima partidas*/
-                .uiListado {
-	margin:0px;padding:0px;
-	width:100%;
-	box-shadow: 10px 10px 5px #888888;
-	border:1px solid #000000;
-	
-	-moz-border-radius-bottomleft:10px;
-	-webkit-border-bottom-left-radius:10px;
-	border-bottom-left-radius:10px;
-	
-	-moz-border-radius-bottomright:10px;
-	-webkit-border-bottom-right-radius:10px;
-	border-bottom-right-radius:10px;
-	
-	-moz-border-radius-topright:10px;
-	-webkit-border-top-right-radius:10px;
-	border-top-right-radius:10px;
-	
-	-moz-border-radius-topleft:10px;
-	-webkit-border-top-left-radius:10px;
-	border-top-left-radius:10px;
-}.uiListado table{
-    border-collapse: collapse;
-        border-spacing: 0;
-	width:100%;
-	height:100%;
-	margin:0px;padding:0px;
-}.uiListado tr:last-child td:last-child {
-	-moz-border-radius-bottomright:10px;
-	-webkit-border-bottom-right-radius:10px;
-	border-bottom-right-radius:10px;
-}
-.uiListado table tr:first-child td:first-child {
-	-moz-border-radius-topleft:10px;
-	-webkit-border-top-left-radius:10px;
-	border-top-left-radius:10px;
-}
-.uiListado table tr:first-child td:last-child {
-	-moz-border-radius-topright:10px;
-	-webkit-border-top-right-radius:10px;
-	border-top-right-radius:10px;
-}.uiListado tr:last-child td:first-child{
-	-moz-border-radius-bottomleft:10px;
-	-webkit-border-bottom-left-radius:10px;
-	border-bottom-left-radius:10px;
-}.uiListado tr:hover td{
-	
-}
-.uiListado tr:nth-child(odd){ background-color:#aad4ff; }
-.uiListado tr:nth-child(even)    { background-color:#ffffff; }.uiListado td{
-	vertical-align:middle;
-	
-	
-	border:1px solid #000000;
-	border-width:0px 1px 1px 0px;
-	text-align:left;
-	padding:7px;
-	font-size:10px;
-	font-family:Arial;
-	font-weight:normal;
-	color:#000000;
-}.uiListado tr:last-child td{
-	border-width:0px 1px 0px 0px;
-}.uiListado tr td:last-child{
-	border-width:0px 0px 1px 0px;
-}.uiListado tr:last-child td:last-child{
-	border-width:0px 0px 0px 0px;
-}
-.uiListado tr:first-child td{
-		background:-o-linear-gradient(bottom, #3582f4 5%, #0930f4 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3582f4), color-stop(1, #0930f4) );
-	background:-moz-linear-gradient( center top, #3582f4 5%, #0930f4 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3582f4", endColorstr="#0930f4");	background: -o-linear-gradient(top,#3582f4,0930f4);
+                    .uiListado {
+                        margin:0px;padding:0px;
+                        width:100%;
+                        box-shadow: 10px 10px 5px #888888;
+                        border:1px solid #000000;
 
-	background-color:#3582f4;
-	border:0px solid #000000;
-	text-align:center;
-	border-width:0px 0px 1px 1px;
-	font-size:14px;
-	font-family:Helvetica;
-	font-weight:bold;
-	color:#ffffff;
-}
-.uiListado tr:first-child:hover td{
-	background:-o-linear-gradient(bottom, #3582f4 5%, #0930f4 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3582f4), color-stop(1, #0930f4) );
-	background:-moz-linear-gradient( center top, #3582f4 5%, #0930f4 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3582f4", endColorstr="#0930f4");	background: -o-linear-gradient(top,#3582f4,0930f4);
+                        -moz-border-radius-bottomleft:10px;
+                        -webkit-border-bottom-left-radius:10px;
+                        border-bottom-left-radius:10px;
 
-	background-color:#3582f4;
-}
-.uiListado tr:first-child td:first-child{
-	border-width:0px 0px 1px 0px;
-}
-.uiListado tr:first-child td:last-child{
-	border-width:0px 0px 1px 1px;
-}
-                    
+                        -moz-border-radius-bottomright:10px;
+                        -webkit-border-bottom-right-radius:10px;
+                        border-bottom-right-radius:10px;
+
+                        -moz-border-radius-topright:10px;
+                        -webkit-border-top-right-radius:10px;
+                        border-top-right-radius:10px;
+
+                        -moz-border-radius-topleft:10px;
+                        -webkit-border-top-left-radius:10px;
+                        border-top-left-radius:10px;
+                    }.uiListado table{
+                        border-collapse: collapse;
+                        border-spacing: 0;
+                        width:100%;
+                        height:100%;
+                        margin:0px;padding:0px;
+                    }.uiListado tr:last-child td:last-child {
+                        -moz-border-radius-bottomright:10px;
+                        -webkit-border-bottom-right-radius:10px;
+                        border-bottom-right-radius:10px;
+                    }
+                    .uiListado table tr:first-child td:first-child {
+                        -moz-border-radius-topleft:10px;
+                        -webkit-border-top-left-radius:10px;
+                        border-top-left-radius:10px;
+                    }
+                    .uiListado table tr:first-child td:last-child {
+                        -moz-border-radius-topright:10px;
+                        -webkit-border-top-right-radius:10px;
+                        border-top-right-radius:10px;
+                    }.uiListado tr:last-child td:first-child{
+                        -moz-border-radius-bottomleft:10px;
+                        -webkit-border-bottom-left-radius:10px;
+                        border-bottom-left-radius:10px;
+                    }.uiListado tr:hover td{
+
+                    }
+                    .uiListado tr:nth-child(odd){ background-color:#aad4ff; }
+                    .uiListado tr:nth-child(even)    { background-color:#ffffff; }.uiListado td{
+                        vertical-align:middle;
+
+
+                        border:1px solid #000000;
+                        border-width:0px 1px 1px 0px;
+                        text-align:left;
+                        padding:7px;
+                        font-size:10px;
+                        font-family:Arial;
+                        font-weight:normal;
+                        color:#000000;
+                    }.uiListado tr:last-child td{
+                        border-width:0px 1px 0px 0px;
+                    }.uiListado tr td:last-child{
+                        border-width:0px 0px 1px 0px;
+                    }.uiListado tr:last-child td:last-child{
+                        border-width:0px 0px 0px 0px;
+                    }
+                    .uiListado tr:first-child td{
+                        background:-o-linear-gradient(bottom, #3582f4 5%, #0930f4 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3582f4), color-stop(1, #0930f4) );
+                        background:-moz-linear-gradient( center top, #3582f4 5%, #0930f4 100% );
+                        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3582f4", endColorstr="#0930f4");	background: -o-linear-gradient(top,#3582f4,0930f4);
+
+                        background-color:#3582f4;
+                        border:0px solid #000000;
+                        text-align:center;
+                        border-width:0px 0px 1px 1px;
+                        font-size:14px;
+                        font-family:Helvetica;
+                        font-weight:bold;
+                        color:#ffffff;
+                    }
+                    .uiListado tr:first-child:hover td{
+                        background:-o-linear-gradient(bottom, #3582f4 5%, #0930f4 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3582f4), color-stop(1, #0930f4) );
+                        background:-moz-linear-gradient( center top, #3582f4 5%, #0930f4 100% );
+                        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#3582f4", endColorstr="#0930f4");	background: -o-linear-gradient(top,#3582f4,0930f4);
+
+                        background-color:#3582f4;
+                    }
+                    .uiListado tr:first-child td:first-child{
+                        border-width:0px 0px 1px 0px;
+                    }
+                    .uiListado tr:first-child td:last-child{
+                        border-width:0px 0px 1px 1px;
+                    }
+
                 </style>
 
                 <div class="pr" style="min-height: 280px">
@@ -343,49 +343,62 @@
                     <div id="center_column" class="fleft mr25 pt20">
                         <div class="uiListado">
                             <div class="f20 lato lato900 border_light_bottom mb20 pb5">
-                            <img src="assets/photos/btonproxpart.jpg">
+                                <img src="assets/photos/btonproxpart.jpg">
                             </div>
                             <div>
-                                <table class="uiListado" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
-                                    <tbody>
-                                        <tr>
-                                            <th class="cabecera" align="center" scope="col">Fecha</th>
-                                            <th class="cabecera" align="center" scope="col">Hora</th>
-                                            <th class="cabecera" align="center" scope="col">Sede</th>
-                                            <th class="cabecera" align="right" scope="col">Local</th>
-                                            <th class="cabecera" scope="col">&nbsp;</th>
-                                            <th class="cabecera" align="left" scope="col">Visitante</th>
-                                            <th class="cabecera" scope="col">Ficha</th>
-                                        </tr>
-                                        <?php
-                                        $i = 0;
-                                        foreach ($proximos_partidos as $partida):
-                                            if ($i == 0) {
-                                                echo "<tr>";
-                                                $i = 1;
-                                            } else {
-                                                echo "<tr class='alternate'>";
-                                                $i = 0;
-                                            }
-                                            ?>
-                                        <td class="texto registro" align="center" style="width:70px;">   
-                                            <span><?php echo getDia($partida['fecha']) ?></span>
-                                        </td><td class="texto registro " align="center" style="width:35px;">   
-                                            <span><?php echo getHora($partida['fecha']) ?></span>
-                                        </td><td class="texto registro" align="center" style="width:60px;">   
-                                            <span title="<?php echo getSede($sedes, $partida['idsede']) ?>"><?php echo getSede($sedes, $partida['idsede']) ?></span>                                                                        
-                                        </td><td class="texto registro" align="right">   
-                                            <a title="<?php echo $partida['equipo1'] ?>"><?php echo $partida['equipo1'] ?></a>
-                                        </td><td class="registro" align="center">
-                                            -
-                                        </td><td class="texto registro">   
-                                            <a title="<?php echo $partida['equipo2'] ?>"><?php echo $partida['equipo2'] ?></a>
-                                        </td><td class="registro" align="center" style="width:20px;">                                        
-                                            <a title="Información del partido" href="/torneo/<?php echo $partida['idtorneo'] ?>/partido/<?php echo $partida['id'] ?>"><img src="/assets/imgs/commons/16soccerball_small.png" style="border-width:0px;"></a>
-                                        </td>
-                                        </tr>
-                                    <?php endforeach ?>
-                                    </tbody></table>
+                                <?php
+                                foreach ($proximos_partidos as $key => $value):
+                                    ?>
+                                    <div><?php echo $key ?></div>
+                                    <table class="uiListado" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
+                                        <tbody>
+                                            <tr>
+                                                <th class="cabecera" align="center" scope="col">Fecha</th>
+                                                <th class="cabecera" align="center" scope="col">Hora</th>
+                                                <th class="cabecera" align="center" scope="col">Sede</th>
+                                                <th class="cabecera" align="right" scope="col">Local</th>
+                                                <th class="cabecera" scope="col">&nbsp;</th>
+                                                <th class="cabecera" align="left" scope="col">Visitante</th>
+                                                <th class="cabecera" scope="col">Ficha</th>
+                                            </tr>
+                                            <?php
+                                            $i = 0;
+                                            foreach ($value as $partida):
+                                                if ($i == 0) {
+                                                    echo "<tr>";
+                                                    $i = 1;
+                                                } else {
+                                                    echo "<tr class='alternate'>";
+                                                    $i = 0;
+                                                }
+                                                ?>
+                                            <td class="texto registro" align="center" style="width:70px;">   
+                                                <span><?php echo getDia($partida['fecha']) ?></span>
+                                            </td>
+                                            <td class="texto registro " align="center" style="width:35px;">   
+                                                <span><?php echo getHora($partida['fecha']) ?></span>
+                                            </td>
+                                            <td class="texto registro" align="center" style="width:60px;">   
+                                                <span title="<?php echo getSede($sedes, $partida['idsede']) ?>"><?php echo getSede($sedes, $partida['idsede']) ?></span>                                                                        
+                                            </td>
+                                            <td class="texto registro" align="right">   
+                                                <a title="<?php echo $partida['equipo1'] ?>"><?php echo $partida['equipo1'] ?></a>
+                                            </td>
+                                            <td class="registro" align="center">
+                                                -
+                                            </td>
+                                            <td class="texto registro">   
+                                                <a title="<?php echo $partida['equipo2'] ?>"><?php echo $partida['equipo2'] ?></a>
+                                            </td>
+                                            <td class="registro" align="center" style="width:20px;">                                        
+                                                <a title="Información del partido" href="/torneo/<?php echo $partida['idtorneo'] ?>/partido/<?php echo $partida['id'] ?>"><img src="/assets/imgs/commons/16soccerball_small.png" style="border-width:0px;"></a>
+                                            </td>
+                                            </tr>
+                                        <?php endforeach; ?>
+                                        </tbody></table>
+                                    <?php
+                                endforeach;
+                                ?>
                             </div>
                         </div>
                         <br/>
@@ -396,7 +409,7 @@
 
 
                         <div class="f20 lato lato900 border_light_bottom mb20 pb5">
-                        <img src="assets/photos/btnultnoticia.jpg">
+                            <img src="assets/photos/btnultnoticia.jpg">
                         </div>
                         <?php foreach ($news as $noticia): ?>
                             <!-- <div class="news-item">

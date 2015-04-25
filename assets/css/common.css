@@ -462,7 +462,7 @@ html[xmlns] #menu {
     font-family: 'Lato',serif;
     font-size: 12px;
     font-weight: normal;
-    height:50px;
+    /*height:50px;*/
     line-height: 100%;
     width:1040px;
     margin:0 auto 0 -20px;
